@@ -1,0 +1,15 @@
+# Pinned versions of the benchmark environment (installed by install.sh).
+# torch 2.10.0+cu128 and torchvision 0.25.0+cu128 come from the PyTorch CUDA 12.8 index first.
+nvalchemi-toolkit[cu12,mace,aimnet,ase]==0.3.0
+nvalchemi-toolkit-ops==0.5.0
+aimnet==0.2.6
+mace-torch==0.3.15
+e3nn==0.4.4
+matgl==4.1.4
+cuequivariance==0.11.1
+cuequivariance-torch==0.11.1
+cuequivariance-ops-torch-cu12==0.11.0
+vesin-torch==0.6.2
+ase==3.29.0
+pyyaml
+matplotlib
